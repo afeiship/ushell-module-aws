@@ -9,9 +9,12 @@
   },
   "keywords": [
     "ushell",
-    "unix",
     "shell",
-    "ushell-module-aws"
+    "unix",
+    "module",
+    "aws",
+    "s3",
+    "cli"
   ],
   "license": "MIT",
   "bugs": {
