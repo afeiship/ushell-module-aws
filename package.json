@@ -1,0 +1,31 @@
+{
+  "name": "@jswork/ushell-module-aws",
+  "version": "1.0.0",
+  "description": "Aws cli for ushell module.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-aws.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-aws"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-aws/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-aws",
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^14.2.1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
